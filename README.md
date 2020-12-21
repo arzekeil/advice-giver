@@ -5,5 +5,5 @@ This uses the [Advice Slip API](https://api.adviceslip.com/) to make a request f
 
 ## Features
 * HTMl
-* SCSS
+* CSS
 * JavaScript
